@@ -1,0 +1,37 @@
+<!doctype html>
+<html>
+<head>
+<meta charset="utf-8">
+<!-- TemplateBeginEditable name="doctitle" -->
+<title>Training Zone</title>
+<!-- TemplateEndEditable -->
+
+
+<!-- TemplateBeginEditable name="head" -->
+
+<link href="../css/masterstyle.css" rel="stylesheet" type="text/css">
+<!-- TemplateEndEditable -->
+</head>
+<body>
+<!-- TemplateBeginEditable name="body" -->
+
+<p id="banner">TRAINING ZONE</p>
+<p id="nav_bar"><table width="500" border="1">
+  <tbody>
+    <tr>
+      <td><a href="../index.html">Home</a></td>
+      <td><a href="../history.html">History</a></td>
+      <td><a href="../training_article.html">Training Article</a></td>
+      <td><a href="../our_trainers.html">Our Trainers</a></td>
+      <td><a href="../contact.html">Contact</a></td>
+      <td><a href="../links.html">Links</a></td>
+    </tr>
+  </tbody>
+</table>
+</p>
+<p id="content"> This is content </p>
+<p id="footer">Copyright 2017</p>
+
+<!-- TemplateEndEditable -->
+</body>
+</html>
